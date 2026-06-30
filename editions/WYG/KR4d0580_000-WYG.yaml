@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0580/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0580_WYG_000-1a, image: WYG1220/WYG1220-0649a.png}
+body:
+  text: 環谷集别集類四元提要臣等謹案環谷集八巻元汪克寛撰克寛有經禮補逸已著録其平生以聚徒講學為業本不留意於文章談萟之家亦未有以文章稱克寛者然其學以朱子為宗故其文皆持論謹嚴敷詞明達無支離迂怪之習詩僅存十餘首雖亦濂洛風雅之𣲖而其中七言古詩數首造語新警乃頗近温庭筠李賀之格較諸演語録以成篇方言俚字無不可以入集者亦殊勝之在其鄉人之中不失為陳櫟胡炳文之亞文士之文以詞勝而防其害理詞勝而不至害理則其詞可傳道學之文以理勝而病其不文理勝而不至不文則其理亦可傳固不必以一格繩古人矣乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:35a23d2b6d5f8d8111ef6e6504087c8907de378d05f8f0ca542535dc99e81246
+metadata:
+  title: 環谷集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:15:13.927336'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0580/KR4d0580_000.txt
+hash: sha256:2be1cda2a1d53cc7adf6457f56982a3e78adde567b4c0fc2be33a4a13fce6159
