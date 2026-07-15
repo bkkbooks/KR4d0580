@@ -30,6 +30,9 @@ markers:
   - {type: punctuation, offset: 10, content: (, id: KR4d0580_krp_000-bkkpn4}
   - {type: punctuation, offset: 11, content: /, id: KR4d0580_krp_000-bkkpn5}
   - {type: punctuation, offset: 11, content: ), id: KR4d0580_krp_000-bkkpn6}
+  - {type: substitution, offset: 18, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
+  - {type: substitution, offset: 22, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20767}}
+  - {type: substitution, offset: 25, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20767}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4d0580_krp_000-bkkkrnewl4}
@@ -45,6 +48,7 @@ markers:
       ', id: KR4d0580_krp_000-bkkkrnewl6}
   - {type: line-break, offset: 61, content: '', id: KR4d0580_WYG_000-1a07}
   - {type: indent, offset: 61, content: 　　　　, id: KR4d0580_krp_000-bkkind7}
+  - {type: substitution, offset: 63, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20767}}
   - {type: 'kr:newline', offset: 78, content: '
 
       ', id: KR4d0580_krp_000-bkkkrnewl7}
@@ -64,6 +68,7 @@ markers:
       ', id: KR4d0580_krp_000-bkkkrnewl10}
   - {type: line-break, offset: 112, content: '', id: KR4d0580_WYG_000-1b02}
   - {type: indent, offset: 112, content: 　　　　, id: KR4d0580_krp_000-bkkind10}
+  - {type: substitution, offset: 122, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: 'kr:newline', offset: 129, content: '
 
       ', id: KR4d0580_krp_000-bkkkrnewl11}
@@ -135,4 +140,4 @@ markers:
 
       ', id: KR4d0580_krp_000-bkkkrnewl21}
   back: []
-hash: sha256:99012b35d972b379b4819aebcd63c8e621b550d1bd71cf5aea1c48e832952f23
+hash: sha256:d253a14728f7d6a850550748bac56f74fb6b7e60a1e1fd42755af6f789cb09ba
